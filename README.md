@@ -2,6 +2,8 @@
 
 A Hubot script that display the mahouka message images.
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140915/20140915132241.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-mahouka.git
